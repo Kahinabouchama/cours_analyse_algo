@@ -1,1 +1,1 @@
-# cours_analyse_algo
+# cours d'analyse des algorithmes et programmation
